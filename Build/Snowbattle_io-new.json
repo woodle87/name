@@ -1,9 +1,9 @@
 {
     "companyName": "Royalec",
     "productName": "SnowBattle.io",
-    "dataUrl": "Snowbattle_io-new.data.unityweb",
-    "wasmCodeUrl": "Snowbattle_io-new.wasm.code.unityweb",
-    "wasmFrameworkUrl": "Snowbattle_io-new.wasm.framework.unityweb",
+    "dataUrl": "https://cdn.jsdelivr.net/gh/woodle87/name@main/Build/Snowbattle_io-new.data.unityweb",
+    "wasmCodeUrl": "https://cdn.jsdelivr.net/gh/woodle87/name@main/Build/Snowbattle_io-new.wasm.code.unityweb",
+    "wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/woodle87/name@main/Build/Snowbattle_io-new.wasm.framework.unityweb",
     "TOTAL_MEMORY": 268435456,
     "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
     "webglContextAttributes": {"preserveDrawingBuffer": false},
